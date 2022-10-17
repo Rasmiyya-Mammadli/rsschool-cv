@@ -1,4 +1,3 @@
 # rsschool-cv
 
-
-https://Rasmiyya-Mammadi.github.io/rsschool-cv/
+https://github.com/Rasmiyya-Mammadli/rsschool-cv.git
